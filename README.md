@@ -1,6 +1,6 @@
 # flutter_app07
 
-A new Flutter application.
+Flutter接入腾讯TPNS消息推送，包括通知类型和透传类型消息推送接收，展示，点击等基本操作。
 
 ## Getting Started
 
